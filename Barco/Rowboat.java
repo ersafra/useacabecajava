@@ -1,4 +1,4 @@
-
+package Barco;
 
 public class Rowboat extends Boat {
     public void rowTheBoat() {
