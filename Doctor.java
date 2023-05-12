@@ -1,5 +1,3 @@
-
-
 public class Doctor {
     boolean workAtHospital;
 

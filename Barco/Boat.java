@@ -1,5 +1,3 @@
-package UseACabecaJava.Barco;
-
 public class Boat {
     private int lenght;
     public void setLength(int len) {
