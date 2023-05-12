@@ -1,4 +1,4 @@
-package UseACabecaJava;
+
 
 public class Doctor {
     boolean workAtHospital;

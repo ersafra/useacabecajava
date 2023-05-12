@@ -1,4 +1,4 @@
-package UseACabecaJava;
+
 public class testecharge {
     private final double rx, ry;
     private final double q;

@@ -1,4 +1,4 @@
-package UseACabecaJava.BatalhaNaval;
+
 public class SimpleDotCom {
 
     int[] locationCells;

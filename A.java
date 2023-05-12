@@ -1,4 +1,4 @@
-package UseACabecaJava;
+
 
 public class A {
     int ivar = 7;

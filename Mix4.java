@@ -1,4 +1,4 @@
-package UseACabecaJava;
+
 public class Mix4 {
     int counter = 0;
 
